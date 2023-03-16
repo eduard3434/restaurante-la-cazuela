@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    width: 80%;
+    min-height: 30px;
+    background: blue;
+}
+nav ul{
+    list-style: none;
+    min-height: 80px;
+}
+nav ul li{
+    display: inline-block;
+    text-decoration: none;
+
+}
