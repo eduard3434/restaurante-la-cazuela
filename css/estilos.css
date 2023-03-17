@@ -9,9 +9,34 @@ header{
 nav ul{
     list-style: none;
     min-height: 80px;
+    text-align: center;
 }
 nav ul li{
     display: inline-block;
     text-decoration: none;
 
+}
+
+body{
+    margin: 50px 200px;
+    background: #e6fcca;
+}
+h1{
+    font-size: 3.5em;
+    color: orangered;
+}
+h2{
+    font-size: 2.5em;
+    color: olivedrab;
+}
+p{
+    font-family: sans-serif;
+    line-height: 1.4em;
+}
+
+body>header{
+    background: orangered;
+    color: #fff;
+    padding: 25px;
+    text-align: center;
 }
