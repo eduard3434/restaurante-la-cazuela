@@ -40,3 +40,9 @@ body>header{
     padding: 25px;
     text-align: center;
 }
+
+.special{
+    font-size: 1.3em;
+    font-weight: bold;
+    color: orangered;
+}
